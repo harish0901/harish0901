@@ -3,9 +3,7 @@
 <h3 align="center">Computer Science Developer | AI & Web Development Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/harish0901">
-    <img src="https://komarev.com/ghpvc/?username=harish0901&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=harish0901&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -105,19 +103,12 @@ A database-driven library management application for managing books and issue re
 
 ## 🌱 Currently Learning
 
-```text
-AI / Machine Learning
-        ↓
-Backend Development
-        ↓
-MERN Stack
-        ↓
-Flutter Development
-        ↓
-Cloud & Deployment
-```
-
----
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚡ Backend Development with FastAPI
+- 🌐 MERN Stack Development
+- 📱 Flutter Application Development
+- ☁️ Cloud & Deployment
+- 🧠 Data Structures & Algorithms
 
 ## 📈 My GitHub Activity
 
