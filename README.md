@@ -101,7 +101,6 @@ A database-driven library management application for managing books and issue re
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=harish0901&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🌱 Currently Learning
