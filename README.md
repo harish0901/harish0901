@@ -26,25 +26,23 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
-### Frameworks & Technologies
+### ⚡ Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flutter,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flutter,fastapi" />
 </p>
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
