@@ -52,6 +52,8 @@ AI-powered mobile safety application designed to provide emergency assistance, l
 
 **Tech:** Flutter • Python • FastAPI • Supabase • AI/ML
 
+🔗 [View Project](https://github.com/harish0901)
+
 ---
 
 ### 🤖 AI Spam Classifier
@@ -59,6 +61,8 @@ AI-powered mobile safety application designed to provide emergency assistance, l
 Machine-learning based application for classifying messages as spam or legitimate.
 
 **Tech:** Python • Pandas • Scikit-learn
+
+🔗 [View Project](https://github.com/harish0901/ai-spam-classifier)
 
 ---
 
@@ -68,6 +72,8 @@ A web application where users can share and explore food recipes.
 
 **Tech:** MERN Stack • JavaScript • MongoDB
 
+🔗 [View Project](https://github.com/harish0901/Recipe-Sharing-Platform)
+
 ---
 
 ### 📚 Library Management System
@@ -75,6 +81,8 @@ A web application where users can share and explore food recipes.
 A database-driven library management application for managing books and issue records.
 
 **Tech:** SQL • Database Management
+
+🔗 [View Project](https://github.com/harish0901/LibraryManagementSystem)
 
 ---
 
