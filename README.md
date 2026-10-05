@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi, I'm Harish
 
-<!--
-**harish0901/harish0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About:
 
-Here are some ideas to get you started:
+🎓 Computer Science undergraduate
+💻 Interested in Software Development, AI & Web Technologies
+🚀 Currently building an AI-Based Women Safety App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:
+
+Python
+Java
+JavaScript
+HTML/CSS
+React
+Node.js
+MongoDB
+SQL
+Flutter
+FastAPI
+
+Projects:
+
+🛡️ AI-Based Women Safety App
+🍲 Food Recipe Sharing Platform
+📚 Library Management System
+🤖 AI Spam Classifier
+
+GitHub Stats:
+
+Contributions
+Most-used languages
+Repository statistics
+Contribution streak
+
+Connect:
+
+LinkedIn
+Email
+Portfolio
