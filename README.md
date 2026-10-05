@@ -50,7 +50,7 @@ AI-powered mobile safety application designed to provide emergency assistance, l
 
 **Tech:** Flutter • Python • FastAPI • Supabase • AI/ML
 
-🔗 [View Project](https://github.com/harish0901)
+🔗 [View Project](https://github.com/harish0901/AI-Based-Women-Safety-App)
 
 ---
 
