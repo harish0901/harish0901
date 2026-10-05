@@ -110,12 +110,6 @@ A database-driven library management application for managing books and issue re
 - ☁️ Cloud & Deployment
 - 🧠 Data Structures & Algorithms
 
-## 📈 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harish0901&theme=tokyo-night&hide_border=true" />
-</p>
----
 
 ## 🤝 Connect With Me
 
